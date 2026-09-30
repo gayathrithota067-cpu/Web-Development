@@ -1,0 +1,30 @@
+h1 {
+    color:blue;
+}
+h2 {
+    color:greenyellow;
+}
+
+p {
+    color:orange;
+}
+
+.jack {
+    border-style: solid;
+    border-color: royalblue;
+    border-width: 20px;
+
+    width:50%;
+
+    text-align: left;
+    text-align: center;
+    text-align: right;
+    text-align: justify;
+
+    background-color: black;
+    color: white;
+
+    padding: 30px;
+
+    margin: 100px;
+}
